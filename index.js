@@ -1,3 +1,3 @@
-console.log('Hello,World!')
+console.log('Hello,World!');
 
-console.eror('Error')
+console.eror('Error');
